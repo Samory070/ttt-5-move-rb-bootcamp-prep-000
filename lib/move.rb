@@ -18,7 +18,7 @@ def input_to_index(indexInput)
   indexInput.to_i
 end
 
-update_array_at_with(board, 0 'X')
+# update_array_at_with(board, 0 'X')
 
 # def move
 #
