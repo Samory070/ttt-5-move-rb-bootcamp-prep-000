@@ -15,7 +15,7 @@ def update_array_at_with(array, index, value)
 end
 
 def input_to_index(indexInput)
-  indexInput.to_i
+  indexInput.to_i - 1
 end
 
 # update_array_at_with(board, 0 'X')
