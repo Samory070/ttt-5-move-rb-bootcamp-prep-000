@@ -20,6 +20,6 @@ end
 
 # update_array_at_with(board, 0 'X')
 
-def move(board, index, value="O")
+def move(board, index, value="X")
 
 end
