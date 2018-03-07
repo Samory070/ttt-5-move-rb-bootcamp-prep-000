@@ -8,8 +8,8 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index
-
+def input_to_index(arg)
+  arg.to_i
 end
 
 def move
